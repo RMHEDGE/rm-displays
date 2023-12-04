@@ -2,23 +2,23 @@
     "chrome_path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
     "windows": [
         {
-            "screen": 1,
+            "screen": 0,
             "tv": 4,
             "url": "https://nem.live"
         },
         {
-            "screen": 4,
+            "screen": 3,
             "tv": 11,
             "url": "https://portal.apps.rmhedge.com/#barcharts"
         },
         {
-            "screen": 3,
+            "screen": 31,
             "tv": 9,
-            "url": "data:text/html,<html><head><style>body{margin:0;padding:0;display:flex}iframe{flex:1;border:0;}</style></head><body><iframe src=\"https://google.com\"></iframe><iframe src=\"https://bing.com\"></iframe></body></html>"
+            "url": "data:text/html,<html><head><style>body{margin:0;padding:0;display:flex}iframe{flex:1;border:0;}</style></head><body><iframe src=\"http://www.neomobile.com.au/Report/ReportView#f=Generation%20%28Wind%20only%29%5CAll%20Regions%20Wind%20Generation&from=2023-12-01&period=Daily*6&view=Chart\"></iframe><iframe src=\"http://www.neomobile.com.au/Report/ReportView#f=Generation%20%28Wind%20only%29%5CAll%20Regions%20Wind%20Generation&from=2023-12-01&period=Daily*6&view=Chart\"></iframe></body></html>"
         },
         {
             "screen": 0,
-            "tv": 6,
+            "tv": 4,
             "url": "https://portal.apps.rmhedge.com/#live_enviros"
         },
         {
