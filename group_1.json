@@ -1,0 +1,30 @@
+{
+    "chrome_path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "windows": [
+        {
+            "screen": 1,
+            "tv": 4,
+            "url": "https://nem.live"
+        },
+        {
+            "screen": 4,
+            "tv": 11,
+            "url": "https://portal.apps.rmhedge.com/#barcharts"
+        },
+        {
+            "screen": 3,
+            "tv": 9,
+            "url": "data:text/html,<html><body style=\"margin:0;padding:0;display:flex;\"><iframe src=\"https://google.com\"></iframe><iframe src=\"https://bing.com\"></iframe></body></html>"
+        },
+        {
+            "screen": 0,
+            "tv": 6,
+            "url": "https://portal.apps.rmhedge.com/#live_enviros"
+        },
+        {
+            "screen": 2,
+            "tv": 10,
+            "url": "https://www.asxenergy.com/futures_au"
+        }
+    ]
+}
