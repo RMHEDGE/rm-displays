@@ -14,7 +14,7 @@
         {
             "screen": 3,
             "tv": 9,
-            "url": "data:text/html,<html><body style=\"margin:0;padding:0;display:flex;\"><iframe src=\"https://google.com\"></iframe><iframe src=\"https://bing.com\"></iframe></body></html>"
+            "url": "data:text/html,<html><head><style>body{margin:0;padding:0;display:flex}iframe{flex:1;border:0;}</style></head><body><iframe src=\"https://google.com\"></iframe><iframe src=\"https://bing.com\"></iframe></body></html>"
         },
         {
             "screen": 0,
