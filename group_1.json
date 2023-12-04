@@ -12,7 +12,7 @@
             "url": "https://portal.apps.rmhedge.com/#barcharts"
         },
         {
-            "screen": 31,
+            "screen": 1,
             "tv": 9,
             "url": "data:text/html,<html><head><style>body{margin:0;padding:0;display:flex}iframe{flex:1;border:0;}</style></head><body><iframe src=\"http://www.neomobile.com.au/Report/ReportView#f=Generation%20%28Wind%20only%29%5CAll%20Regions%20Wind%20Generation&from=2023-12-01&period=Daily*6&view=Chart\"></iframe><iframe src=\"http://www.neomobile.com.au/Report/ReportView#f=Generation%20%28Wind%20only%29%5CAll%20Regions%20Wind%20Generation&from=2023-12-01&period=Daily*6&view=Chart\"></iframe></body></html>"
         },
