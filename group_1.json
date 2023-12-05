@@ -14,7 +14,7 @@
         {
             "screen": 1,
             "tv": 9,
-            "url": "data:text/html,<html><head><style>body{margin:0;padding:0;display:flex;flex-direction:column;height:100%;}iframe{flex:1;border:0;}</style></head><body><iframe src=\"https://tinyurl.com/54pp9arf\"></iframe><iframe src=\"https://tinyurl.com/54pp9arf\"></iframe></body></html>"
+            "url": "https://tinyurl.com/54pp9arf,https://tinyurl.com/54pp9arf"
         },
         {
             "screen": 4,
