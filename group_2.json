@@ -19,7 +19,7 @@
         {
             "screen": 2,
             "tv": 7,
-            "url": "https://portal.apps.rmhedge.com/#ticker"
+            "url": "https://portal.apps.rmhedge.com/#ticker?no_ticker=true"
         }
     ]
 }
