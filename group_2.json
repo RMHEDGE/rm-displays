@@ -4,22 +4,22 @@
         {
             "screen": 1,
             "tv": 1,
-            "url": "https://neomobile.com.au/Report/Overview1"
+            "url": "https://portal.apps.rmhedge.com/#gas_page"
         },
         {
             "screen": 3,
             "tv": 3,
-            "url": "https://iview.abc.net.au/video/NS1413V001S00"
+            "url": "https://portal.apps.rmhedge.com/#weather"
         },
         {
             "screen": 0,
             "tv": 5,
-            "url": "https://portal.apps.rmhedge.com/#weather"
+            "url": "https://www.neomobile.com.au/Report/Overview1"
         },
         {
             "screen": 2,
             "tv": 7,
-            "url": "https://portal.apps.rmhedge.com/#gas_page"
+            "url": "https://portal.apps.rmhedge.com/#ticker"
         }
     ]
 }
