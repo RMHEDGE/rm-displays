@@ -6,7 +6,6 @@ After=network-online.target
 [Service]
 Type=simple
 ExecStart=/usr/bin/chromium-browser --start-fullscreen https://portal.apps.rmhedge.com/#ticker
-Restart=on-failure
 KillMode=process
 
 [Install]
