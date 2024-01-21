@@ -1,30 +1,104 @@
-{
-    "chrome_path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
-    "windows": [
+[
+    {
+      "id": 0,
+      "tv": 4,
+      "displays": "https://portal.apps.rmhedge.com/#nem_live",
+      "span": {
+        "row": [
+          1,
+          1
+        ],
+        "col": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "tv": 11,
+      "displays": "https://portal.apps.rmhedge.com/#barcharts",
+      "span": {
+        "row": [
+          1,
+          1
+        ],
+        "col": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "id": 1,
+      "tv": 9,
+      "displays": [
         {
-            "screen": 0,
-            "tv": 4,
-            "url": "https://portal.apps.rmhedge.com/#nem_live"
+          "url": "https://assets.rmhedge.com?url=http%3A%2F%2Fwww.neomobile.com.au%2FReport%2FReportView%23f%3DGeneration%2520%2528Wind%2520only%2529%255CAll%2520Regions%2520Wind%2520Generation%26from%3D2023-01-10%26period%3DDaily%2A7%26view%3DChart",
+          "span": {
+            "row": [
+              1,
+              1
+            ],
+            "col": [
+              1,
+              1
+            ]
+          }
         },
         {
-            "screen": 3,
-            "tv": 11,
-            "url": "https://portal.apps.rmhedge.com/#barcharts"
-        },
-        {
-            "screen": 1,
-            "tv": 9,
-            "url": "https://assets.rmhedge.com?url=http%3A%2F%2Fwww.neomobile.com.au%2FReport%2FReportView%23f%3DGeneration%2520%2528Wind%2520only%2529%255CAll%2520Regions%2520Wind%2520Generation%26from%3D2023-01-10%26period%3DDaily%2A7%26view%3DChart,https://assets.rmhedge.com/?url=http%3A%2F%2Fwww.neomobile.com.au%2FReport%2FReportView%23f%3DGeneration%2520%Solar%2520only%2529%255CAll%2520Regions%Solar%2520Generation%26from%3D2023-01-10%26period%3DDaily%2A7%26view%3DChart"
-        },
-        {
-            "screen": 4,
-            "tv": 6,
-            "url": "https://portal.apps.rmhedge.com/#live_enviros"
-        },
-        {
-            "screen": 2,
-            "tv": 10,
-            "url": "https://www.asxenergy.com.au/futures_au"
+          "url": "https://assets.rmhedge.com/?url=http%3A%2F%2Fwww.neomobile.com.au%2FReport%2FReportView%23f%3DGeneration%2520%Solar%2520only%2529%255CAll%2520Regions%Solar%2520Generation%26from%3D2023-01-10%26period%3DDaily%2A7%26view%3DChart",
+          "span": {
+            "row": [
+              2,
+              2
+            ],
+            "col": [
+              1,
+              1
+            ]
+          }
         }
-    ]
-}
+      ],
+      "span": {
+        "row": [
+          1,
+          1
+        ],
+        "col": [
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "tv": 6,
+      "displays": "https://portal.apps.rmhedge.com/#live_enviros",
+      "span": {
+        "row": [
+          2,
+          2
+        ],
+        "col": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "tv": 10,
+      "displays": "https://www.asxenergy.com.au/futures_au",
+      "span": {
+        "row": [
+          2,
+          2
+        ],
+        "col": [
+          3,
+          3
+        ]
+      }
+    }
+  ]
