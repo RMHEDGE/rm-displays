@@ -1,62 +1,89 @@
 [
-    {
-      "id": 1,
-      "tv": 1,
-      "displays": "https://portal.apps.rmhedge.com/#gas_page",
-      "span": {
-        "row": [
-          1,
-          1
-        ],
-        "col": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "id": 3,
-      "tv": 3,
-      "displays": "https://portal.apps.rmhedge.com/#weather",
-      "span": {
-        "row": [
-          1,
-          1
-        ],
-        "col": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "id": 0,
-      "tv": 5,
-      "displays": "https://www.neomobile.com.au/Report/Overview1",
-      "span": {
-        "row": [
-          1,
-          1
-        ],
-        "col": [
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "id": 2,
-      "tv": 7,
-      "displays": "https://portal.apps.rmhedge.com/#ticker?no_ticker=true",
-      "span": {
-        "row": [
-          1,
-          1
-        ],
-        "col": [
-          4,
-          4
-        ]
-      }
+  {
+    "id": 1,
+    "tv": 1,
+    "displays": "https://portal.apps.rmhedge.com/#gas_page",
+    "span": {
+      "row": [
+        1,
+        1
+      ],
+      "col": [
+        1,
+        1
+      ]
     }
-  ]
+  },
+  {
+    "id": 3,
+    "tv": 3,
+    "displays": [
+      {
+        "url": "https://assets.rmhedge.com/?url=https%3A%2F%2Fwww.neomobile.com.au%2FReport%2FReportView%23f%3DGeneration%20%28Wind%20only%29%5CAll%20Regions%20Wind%20Generation%26from%3DSCW_DATE%26period%3DDaily%2A6%26view%3DChart",
+        "span": {
+          "row": [
+            1,
+            1
+          ],
+          "col": [
+            1,
+            1
+          ]
+        }
+      },
+      {
+        "url": "https://assets.rmhedge.com/?url=https%3A%2F%2Fwww.neomobile.com.au%2FReport%2FReportView%23f%3DGeneration%20%28Solar%20only%29%5CAll%20Regions%20Solar%20Generation%26from%3DSCW_DATE%26period%3DDaily%2A6%26view%3DChart",
+        "span": {
+          "row": [
+            2,
+            2
+          ],
+          "col": [
+            1,
+            1
+          ]
+        }
+      }
+    ],
+    "span": {
+      "row": [
+        1,
+        1
+      ],
+      "col": [
+        2,
+        2
+      ]
+    }
+  },
+  {
+    "id": 0,
+    "tv": 5,
+    "displays": "https://www.neomobile.com.au/Report/Overview1",
+    "span": {
+      "row": [
+        1,
+        1
+      ],
+      "col": [
+        3,
+        3
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "tv": 7,
+    "displays": "https://portal.apps.rmhedge.com/#ticker?no_ticker=true",
+    "span": {
+      "row": [
+        1,
+        1
+      ],
+      "col": [
+        4,
+        4
+      ]
+    }
+  }
+]
