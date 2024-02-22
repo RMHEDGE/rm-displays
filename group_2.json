@@ -19,7 +19,7 @@
     "tv": 3,
     "displays": [
       {
-        "url": "https://assets.rmhedge.com/?url=https%3A%2F%2Fwww.neomobile.com.au%2FReport%2FReportView%23f%3DGeneration%20%28Wind%20only%29%5CAll%20Regions%20Wind%20Generation%26from%3DSCW_DATE%26period%3DDaily%2A6%26view%3DChart",
+        "url": "https://assets.rmhedge.com/?url=https%3A%2F%2Fwww.neomobile.com.au%2FReport%2FReportView%23f%3DGeneration%20%28Wind%20only%29%5CAll%20Regions%20Wind%20Generation%26from%3DSCW_DATE%26period%3DDaily%2A5%26view%3DChart",
         "span": {
           "row": [
             1,
@@ -32,7 +32,7 @@
         }
       },
       {
-        "url": "https://assets.rmhedge.com/?url=https%3A%2F%2Fwww.neomobile.com.au%2FReport%2FReportView%23f%3DGeneration%20%28Solar%20only%29%5CAll%20Regions%20Solar%20Generation%26from%3DSCW_DATE%26period%3DDaily%2A6%26view%3DChart",
+        "url": "https://assets.rmhedge.com/?url=https%3A%2F%2Fwww.neomobile.com.au%2FReport%2FReportView%23f%3DGeneration%20%28Solar%20only%29%5CAll%20Regions%20Solar%20Generation%26from%3DSCW_DATE%26period%3DDaily%2A5%26view%3DChart",
         "span": {
           "row": [
             2,
