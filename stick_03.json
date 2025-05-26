@@ -1,5 +1,5 @@
 {
   "url": "https://portal.apps.rmhedge.com/#gas_page",
   "reload": 6000000,
-  "onLoad": "document.querySelector(\"meta[name=viewport]\").setAttribute('content', 'width=device-width, initial-scale=0.2'); document.querySelector('#root > div > div.wc-modal > div > div > div > div > div.modal-footer > div > button').click();"
+  "onLoad": "document.querySelector(\"meta[name=viewport]\").setAttribute('content', 'width=device-width, initial-scale=0.2'); setTimeout(() => { document.querySelector('#root > div > div.wc-modal > div > div > div > div > div.modal-footer > div > button').click(); }, 5000);"
 }
