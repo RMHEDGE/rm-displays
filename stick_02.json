@@ -1,5 +1,5 @@
 {
-  "url": "https://portal.apps.rmhedge.com/#ticker",
+  "url": "https://portal.apps.rmhedge.com/#ticker&no_ticker=true",
   "reload": 6000000,
   "onLoad": "document.querySelector(\"meta[name=viewport]\").setAttribute('content', 'width=device-width, initial-scale=0.525');"
 }
