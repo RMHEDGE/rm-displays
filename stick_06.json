@@ -1,5 +1,5 @@
 {
-  "url": "https://www.youtube.com/embed/vOTiJkg1voo?si=pc_Kzh1EOI9GY5H2&autoplay=1&mute=1",
+  "url": "http://192.168.1.243:8080",
   "reload": 6000000,
   "onLoad": ""
 }
