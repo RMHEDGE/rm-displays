@@ -2,11 +2,11 @@
   {
     "url": "https://www.neomobile.com.au/Custom1/LiveWindGeneration",
     "reload": 6000000,
-    "onLoad": ""
+    "onLoad": "document.querySelector(\"meta[name=viewport]\").setAttribute('content', 'width=device-width, initial-scale=0.525');"
   },
   {
     "url": "https://www.neomobile.com.au/Custom1/LiveSolarGeneration",
     "reload": 6000000,
-    "onLoad": ""
+    "onLoad": "document.querySelector(\"meta[name=viewport]\").setAttribute('content', 'width=device-width, initial-scale=0.525');"
   }
 ]
