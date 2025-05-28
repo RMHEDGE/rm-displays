@@ -2,11 +2,11 @@
   {
     "url": "https://www.neomobile.com.au/Custom1/LiveWindGeneration",
     "reload": 6000000,
-    "onLoad": "document.querySelector(\"meta[name=viewport]\").setAttribute('content', 'width=device-width, initial-scale=0.525'); setTimeout(() => document.querySelector('.gen-region').remove(), 10_000)"
+    "onLoad": "document.querySelector(\"meta[name=viewport]\").setAttribute('content', 'width=device-width, initial-scale=0.525'); setTimeout(() => {document.querySelector('.gen-side').remove(); window.dispatchEvent(new Event('resize')); }, 10_000)"
   },
   {
     "url": "https://www.neomobile.com.au/Custom1/LiveSolarGeneration",
     "reload": 6000000,
-    "onLoad": "document.querySelector(\"meta[name=viewport]\").setAttribute('content', 'width=device-width, initial-scale=0.525'); setTimeout(() => document.querySelector('.gen-region').remove(), 10_000)"
+    "onLoad": "document.querySelector(\"meta[name=viewport]\").setAttribute('content', 'width=device-width, initial-scale=0.525'); setTimeout(() => {document.querySelector('.gen-side').remove(); window.dispatchEvent(new Event('resize')); }, 10_000)"
   }
 ]
