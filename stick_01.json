@@ -1,11 +1,11 @@
 [
   {
-    "url": "https://www.neomobile.com.au/Custom1/LiveWindGeneration",
+    "url": "https://www.neomobile.com.au/Report/ReportView#f=Generation%20%28Wind%20only%29%5CAll%20Regions%20Wind%20Generation&from=$d(-7)%200:00:00&period=Daily*7&uuid=6bea53bc-f701-45ea-939c-86ad4b4defb8&view=Chart'",
     "reload": 6000000,
     "onLoad": "document.querySelector(\"meta[name=viewport]\").setAttribute('content', 'width=device-width, initial-scale=0.525'); setTimeout(() => {document.querySelector('.gen-side').remove(); window.dispatchEvent(new Event('resize')); }, 10_000)"
   },
   {
-    "url": "https://www.neomobile.com.au/Custom1/LiveSolarGeneration",
+    "url": "https://www.neomobile.com.au/Report/ReportView#f=Generation%20%28Solar%20only%29%5CAll%20Regions%20Solar%20Generation&from=$d(-7)%200:00:00&period=Daily*7&uuid=f0627691-dbfc-420c-b424-3592a106f4b2&view=Chart",
     "reload": 6000000,
     "onLoad": "document.querySelector(\"meta[name=viewport]\").setAttribute('content', 'width=device-width, initial-scale=0.525'); setTimeout(() => {document.querySelector('.gen-side').remove(); window.dispatchEvent(new Event('resize')); }, 10_000)"
   }
