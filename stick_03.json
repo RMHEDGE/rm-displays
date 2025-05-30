@@ -1,5 +1,5 @@
 {
   "url": "https://portal.apps.rmhedge.com/#gas_page",
   "reload": 6000000,
-  "onLoad": "document.querySelector('meta[name=viewport]').setAttribute('content', 'width=device-width, initial-scale=0.65');"
+  "onLoad": "document.querySelector('meta[name=viewport]').setAttribute('content', 'width=device-width, initial-scale=0.45');"
 }
