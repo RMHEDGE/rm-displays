@@ -1,5 +1,5 @@
 {
-  "url": "https://www.marketindex.com.au/asx200",
+  "url": "http://192.168.1.243:8080",
   "reload": 6000000,
-  "onLoad": "document.querySelector(\"meta[name=viewport]\").setAttribute('content', 'width=device-width, initial-scale=0.525');"
+  "onLoad": "document.querySelector('#overlay > button').click()"
 }
