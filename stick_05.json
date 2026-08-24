@@ -1,6 +1,6 @@
 {
-  "url": "https://www.youtube.com/channel/UCVgO39Bk5sMo66-6o6Spn6Q/live",
+  "url": "https://apps.rmhedge.com/reports/indexes#chart=false&dark=true&header=true&impacts=true&news=false&ticker=true",
   "reload": 6000000,
-  "onLoad": "document.querySelector(\"meta[name=viewport]\").setAttribute('content', 'width=device-width, initial-scale=0.520'); var v=document.querySelector('video'); if(v){v.muted=true; v.play();}",
+  "onLoad": "document.querySelector(\"meta[name=viewport]\").setAttribute('content', 'width=device-width, initial-scale=0.520');",
   "proxy": "http://192.168.1.243:4496"
 }
