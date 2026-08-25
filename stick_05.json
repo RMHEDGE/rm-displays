@@ -1,5 +1,5 @@
 {
-  "url": "https://apps.rmhedge.com/reports/indexes#chart=false&dark=true&header=true&impacts=true&news=false&ticker=true",
+  "url": "https://apps.rmhedge.com/reports/indexes",
   "reload": 600000,
   "onLoad": "document.querySelector(\"meta[name=viewport]\").setAttribute('content', 'width=device-width, initial-scale=0.520');"
 }
