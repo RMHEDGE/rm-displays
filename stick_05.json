@@ -1,6 +1,5 @@
 {
   "url": "https://apps.rmhedge.com/reports/indexes#chart=false&dark=true&header=true&impacts=true&news=false&ticker=true",
   "reload": 60,
-  "onLoad": "document.querySelector(\"meta[name=viewport]\").setAttribute('content', 'width=device-width, initial-scale=0.520');",
-  "proxy": "http://192.168.1.243:4496"
+  "onLoad": "document.querySelector(\"meta[name=viewport]\").setAttribute('content', 'width=device-width, initial-scale=0.520');"
 }
