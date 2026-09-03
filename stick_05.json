@@ -1,6 +1,6 @@
 {
   "url": "https://apps.rmhedge.com/reports/indexes#chart=false&dark=true&header=true&impacts=true&news=false&ticker=true",
-  "proxy": "http://192.168.1.243:8080",
+  "proxy": "http://192.168.1.237:8080",
   "reload": 600000,
   "onLoad": "let m=document.querySelector('meta[name=viewport]'); if(m)m.setAttribute('content','width=device-width, initial-scale=0.52'); else {m=document.createElement('meta'); m.name='viewport'; m.content='width=device-width, initial-scale=0.52'; document.head.appendChild(m);}"
 }
