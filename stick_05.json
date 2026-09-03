@@ -1,5 +1,5 @@
 {
-  "url": "http://192.168.1.237:8080/indexes-simple.html",
+  "url": "http://192.168.1.237:8080/snapshot/stick_05",
   "reload": 600000,
   "onLoad": "let m=document.querySelector('meta[name=viewport]'); if(m)m.setAttribute('content','width=device-width, initial-scale=0.52'); else {m=document.createElement('meta'); m.name='viewport'; m.content='width=device-width, initial-scale=0.52'; document.head.appendChild(m);}"
 }
