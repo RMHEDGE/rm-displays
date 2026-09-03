@@ -1,5 +1,5 @@
 {
   "url": "https://apps.rmhedge.com",
   "reload": 600000,
-  "onLoad": "let m=document.querySelector('meta[name=viewport]'); if(m)m.setAttribute('content','width=device-width, initial-scale=0.52'); else {m=document.createElement('meta'); m.name='viewport'; m.content='width=device-width, initial-scale=0.52'; document.head.appendChild(m);}"
+  "onLoad": "let m=document.querySelector('meta[name=viewport]'); if(m)m.setAttribute('content','width=device-width, initial-scale=0.52'); else {m=document.createElement('meta'); m.name='viewport'; m.content='width=device-width, initial-scale=0.52'; document.head.appendChild(m);console.log(location.href);console.log(document.referrer);console.log(self.crossOriginIsolated);}"
 }
